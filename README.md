@@ -29,7 +29,9 @@ Tässä projektissa käytin Sleep Health and Lifestyle Dataset aineistoa Kaggles
 Se sisältää 374 havaintoa ja 13 saraketta, jotka kuvaavat unitottumuksia, elämäntapoja ja perusterveydentilan indikaattoreita eri ammateissa toimivilla henkilöillä.
 Sarakkeet sisältävät demografisia tietoja (sukupuoli, ikä, ammatti), uneen liittyviä muuttujia (unen kesto, unen laatu, unihäiriö) sekä elämäntapa ja terveysindikaattoreita (fyysisen aktiivisuuden taso, päivittäiset askeleet, stressitaso, BMI-luokka, verenpaine ja syke).
 
-## ## Eettiset näkökulmat ja tietosuoja
+## Eettiset näkökulmat ja tietosuoja
+
+Tämä analyysi on tehty terveydenhuollon ennaltaehkäisevän työn tueksi. Tavoitteena on tunnistaa hyvinvointiriskejä elämäntapadatan avulla ennen kuin ongelmat pahenevat.
 
 Hyvinvointidata sisältää arkaluonteista terveystietoa, joten sen käsittelyssä tulee huomioida tietosuoja ja GDPR.
 Mallia ei käytetä lääketieteelliseen diagnosointiin, vaan hyvinvoinnin riskitekijöiden tunnistamiseen.
