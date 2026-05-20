@@ -15,13 +15,18 @@ Uni, stressi ja elämäntavat vaikuttavat sekä fyysiseen että henkiseen tervey
 8. Onko sykkeen jakaumassa merkittäviä eroja miesten ja naisten välillä?
 9. Voivatko uni- ja elämäntapadata auttaa tunnistamaan epätavallisia hyvinvointimalleja?
 
-## Hypoteesit
+## Hypoteesien tarkistus
 
-1. Henkilöillä, joilla on vähemmän päivittäisiä askelia, on yleensä korkeampi stressitaso
-2. Alhaisempi fyysisen aktiivisuuden taso yli 35-vuotiailla voi olla yhteydessä korkeampaan stressitasoon
-3. BMI-luokka voi olla yhteydessä sykkeen eroihin
-4. Jotkin ammatit voivat olla yhteydessä korkeampaan stressitasoon ja huonompaan unen laatuun
-5. Sykkeen jakaumat voivat erota miesten ja naisten välillä
+1. Vähemmän askelia = korkeampi stressi. 
+    Korrelaatio 0.19 - yhteys liian heikko. **Ei tuettu.**
+2. Yli 35-vuotiailla alhaisempi aktiivisuus > korkeampi stressi.
+    Hajontakuvio ei näytä selkeää trendiä. **Ei tuettu.**
+3. BMI-luokka vaikuttaa sykkeeseen.
+    Obese-ryhmän syke (84) on selvästi korkeampi kuin Normal-ryhmän (69). **Tuettu**
+4. Joillakin ammateilla korkeampi stressi ja huonompi uni.
+    Sales Representative - ammatin stressitaso (8) on lähes kaksinkertainen Engineer-ammattiin (4) verrattuna **Tuettu**
+5. Miesten ja naisten syke eroaa toisistaan.
+    Miesten keskisyke (~71) on hieman korkeampi kuin naisten (~69), mutta naisten sykkeen vaihteluväli on huomattavasti suurempi (65–84). **Osittain tuettu**
 
 ## Aineiston kuvaus
 
